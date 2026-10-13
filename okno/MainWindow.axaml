@@ -4,7 +4,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="okno.MainWindow"
-        Title="Warsztat Programistyczny">
+        Title="Warsztat Programistyczny"
+        Width="600" Height="400"
+        WindowStartupLocation="CenterScreen">
     <TextBlock Text="Warsztat"
                FontSize="48"
                HorizontalAlignment="Center"
