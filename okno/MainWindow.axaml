@@ -23,6 +23,7 @@
                    HorizontalAlignment="Center" />
         <Button x:Name="ActionButton"
                 Content="Kliknij mnie"
+                Click="OnButtonClick"
                 HorizontalAlignment="Center"
                 Background="#89B4FA"
                 Foreground="#11111B"

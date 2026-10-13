@@ -6,3 +6,4 @@ Prośba: zmienić kolor tekstu na jasny i dodać pogrubienie w MainWindow.axaml;
 Prośba: umieścić elementy okna wewnątrz StackPanel ze stałym odstępem w MainWindow.axaml; diff miał 24 linii; rozumiem 24 z 24.
 Prośba: dodać podtytuł Aplikacja Avalonia UI w MainWindow.axaml; diff miał 15 linii; rozumiem 15 z 15.
 Prośba: dodać stylizowany przycisk Kliknij mnie w MainWindow.axaml; diff miał 18 linii; rozumiem 18 z 18.
+Prośba: dodać obsługę kliknięcia przycisku ze zmianą treści podtytułu w MainWindow.axaml.cs; diff miał 34 linii; rozumiem 34 z 34.
