@@ -45,6 +45,16 @@
                     FontWeight="SemiBold"
                     Padding="20,10"
                     CornerRadius="8" />
+            <ProgressBar x:Name="ProgressBar"
+                         Value="70"
+                         Minimum="0"
+                         Maximum="100"
+                         Width="260"
+                         Height="8"
+                         Foreground="#A6E3A1"
+                         Background="#313244"
+                         CornerRadius="4"
+                         HorizontalAlignment="Center" />
         </StackPanel>
     </Border>
 </Window>
