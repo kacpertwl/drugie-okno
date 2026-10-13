@@ -6,7 +6,8 @@
         x:Class="okno.MainWindow"
         Title="Warsztat Programistyczny"
         Width="600" Height="400"
-        WindowStartupLocation="CenterScreen">
+        WindowStartupLocation="CenterScreen"
+        Background="#1E1E2E">
     <TextBlock Text="Warsztat"
                FontSize="48"
                HorizontalAlignment="Center"
