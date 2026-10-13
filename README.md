@@ -5,3 +5,4 @@ Prośba: ustawić ciemne tło okna #1E1E2E w MainWindow.axaml; diff miał 14 lin
 Prośba: zmienić kolor tekstu na jasny i dodać pogrubienie w MainWindow.axaml; diff miał 13 linii; rozumiem 13 z 13.
 Prośba: umieścić elementy okna wewnątrz StackPanel ze stałym odstępem w MainWindow.axaml; diff miał 24 linii; rozumiem 24 z 24.
 Prośba: dodać podtytuł Aplikacja Avalonia UI w MainWindow.axaml; diff miał 15 linii; rozumiem 15 z 15.
+Prośba: dodać stylizowany przycisk Kliknij mnie w MainWindow.axaml; diff miał 18 linii; rozumiem 18 z 18.

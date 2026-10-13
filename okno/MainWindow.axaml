@@ -21,5 +21,13 @@
                    FontSize="18"
                    Foreground="#A6ADC8"
                    HorizontalAlignment="Center" />
+        <Button x:Name="ActionButton"
+                Content="Kliknij mnie"
+                HorizontalAlignment="Center"
+                Background="#89B4FA"
+                Foreground="#11111B"
+                FontWeight="SemiBold"
+                Padding="20,10"
+                CornerRadius="8" />
     </StackPanel>
 </Window>
