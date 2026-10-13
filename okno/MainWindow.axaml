@@ -21,6 +21,13 @@
                    FontSize="18"
                    Foreground="#A6ADC8"
                    HorizontalAlignment="Center" />
+        <TextBox x:Name="InputBox"
+                 Watermark="Wpisz swoje imię..."
+                 Width="260"
+                 HorizontalAlignment="Center"
+                 Background="#313244"
+                 Foreground="#CDD6F4"
+                 CornerRadius="6" />
         <Button x:Name="ActionButton"
                 Content="Kliknij mnie"
                 Click="OnButtonClick"
