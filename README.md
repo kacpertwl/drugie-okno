@@ -12,3 +12,4 @@ Prośba: personalizować powitanie po kliknięciu przycisku z użyciem tekstu z 
 Prośba: otoczyć zawartość okna ramką Border z zaokrągleniami i tłem w MainWindow.axaml; diff miał 78 linii; rozumiem 78 z 78.
 Prośba: dodać wskaźnik postępu ProgressBar pod kontrolkami w MainWindow.axaml; diff miał 21 linii; rozumiem 21 z 21.
 Prośba: dodać przełącznik CheckBox z podpisem Tryb zaawansowany w MainWindow.axaml; diff miał 15 linii; rozumiem 15 z 15.
+Prośba: dodać etykietę informacyjną o wersji aplikacji na dole panelu w MainWindow.axaml; diff miał 16 linii; rozumiem 16 z 16.
