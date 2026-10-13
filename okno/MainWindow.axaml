@@ -55,6 +55,10 @@
                          Background="#313244"
                          CornerRadius="4"
                          HorizontalAlignment="Center" />
+            <CheckBox x:Name="ModeCheckBox"
+                      Content="Tryb zaawansowany"
+                      Foreground="#CDD6F4"
+                      HorizontalAlignment="Center" />
         </StackPanel>
     </Border>
 </Window>

@@ -11,3 +11,4 @@ Prośba: dodać pole tekstowe TextBox z podpowiedzią w MainWindow.axaml; diff m
 Prośba: personalizować powitanie po kliknięciu przycisku z użyciem tekstu z pola TextBox w MainWindow.axaml.cs; diff miał 14 linii; rozumiem 14 z 14.
 Prośba: otoczyć zawartość okna ramką Border z zaokrągleniami i tłem w MainWindow.axaml; diff miał 78 linii; rozumiem 78 z 78.
 Prośba: dodać wskaźnik postępu ProgressBar pod kontrolkami w MainWindow.axaml; diff miał 21 linii; rozumiem 21 z 21.
+Prośba: dodać przełącznik CheckBox z podpisem Tryb zaawansowany w MainWindow.axaml; diff miał 15 linii; rozumiem 15 z 15.
