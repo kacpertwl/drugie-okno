@@ -14,6 +14,7 @@ public partial class MainWindow : Window
     private void OnButtonClick(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
         _clickCount++;
-        SubtitleText.Text = $"Przycisk kliknięty {_clickCount} razy!";
+        var name = string.IsNullOrWhiteSpace(InputBox.Text) ? "Gość" : InputBox.Text.Trim();
+        SubtitleText.Text = $"Witaj, {name}! Kliknięto: {_clickCount}";
     }
 }
