@@ -1,5 +1,7 @@
 ## .NET / Avalonia
-bin/
+# Keep the bin folder in the repo; ignore its build output
+bin/*
+!bin/.gitkeep
 obj/
 out/
 *.user
@@ -17,7 +19,8 @@ x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
-[Bb]in/
+[Bb]in/*
+![Bb]in/.gitkeep
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
