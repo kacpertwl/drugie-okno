@@ -9,3 +9,4 @@ Prośba: dodać stylizowany przycisk Kliknij mnie w MainWindow.axaml; diff miał
 Prośba: dodać obsługę kliknięcia przycisku ze zmianą treści podtytułu w MainWindow.axaml.cs; diff miał 34 linii; rozumiem 34 z 34.
 Prośba: dodać pole tekstowe TextBox z podpowiedzią w MainWindow.axaml; diff miał 18 linii; rozumiem 18 z 18.
 Prośba: personalizować powitanie po kliknięciu przycisku z użyciem tekstu z pola TextBox w MainWindow.axaml.cs; diff miał 14 linii; rozumiem 14 z 14.
+Prośba: otoczyć zawartość okna ramką Border z zaokrągleniami i tłem w MainWindow.axaml; diff miał 78 linii; rozumiem 78 z 78.
