@@ -16,5 +16,10 @@
                    FontWeight="Bold"
                    Foreground="#CDD6F4"
                    HorizontalAlignment="Center" />
+        <TextBlock x:Name="SubtitleText"
+                   Text="Aplikacja Avalonia UI"
+                   FontSize="18"
+                   Foreground="#A6ADC8"
+                   HorizontalAlignment="Center" />
     </StackPanel>
 </Window>

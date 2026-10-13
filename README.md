@@ -4,3 +4,4 @@ Prośba: ustawić wymiary okna 600x400 i wyśrodkowanie na ekranie w MainWindow.
 Prośba: ustawić ciemne tło okna #1E1E2E w MainWindow.axaml; diff miał 14 linii; rozumiem 14 z 14.
 Prośba: zmienić kolor tekstu na jasny i dodać pogrubienie w MainWindow.axaml; diff miał 13 linii; rozumiem 13 z 13.
 Prośba: umieścić elementy okna wewnątrz StackPanel ze stałym odstępem w MainWindow.axaml; diff miał 24 linii; rozumiem 24 z 24.
+Prośba: dodać podtytuł Aplikacja Avalonia UI w MainWindow.axaml; diff miał 15 linii; rozumiem 15 z 15.
